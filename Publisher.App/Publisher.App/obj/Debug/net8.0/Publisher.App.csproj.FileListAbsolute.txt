@@ -1,0 +1,17 @@
+C:\Users\Amit Prakash\source\repos\Publisher.App\Publisher.App\bin\Debug\net8.0\Publisher.App.exe
+C:\Users\Amit Prakash\source\repos\Publisher.App\Publisher.App\bin\Debug\net8.0\Publisher.App.deps.json
+C:\Users\Amit Prakash\source\repos\Publisher.App\Publisher.App\bin\Debug\net8.0\Publisher.App.runtimeconfig.json
+C:\Users\Amit Prakash\source\repos\Publisher.App\Publisher.App\bin\Debug\net8.0\Publisher.App.dll
+C:\Users\Amit Prakash\source\repos\Publisher.App\Publisher.App\bin\Debug\net8.0\Publisher.App.pdb
+C:\Users\Amit Prakash\source\repos\Publisher.App\Publisher.App\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\Amit Prakash\source\repos\Publisher.App\Publisher.App\obj\Debug\net8.0\Publisher.App.csproj.AssemblyReference.cache
+C:\Users\Amit Prakash\source\repos\Publisher.App\Publisher.App\obj\Debug\net8.0\Publisher.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amit Prakash\source\repos\Publisher.App\Publisher.App\obj\Debug\net8.0\Publisher.App.AssemblyInfoInputs.cache
+C:\Users\Amit Prakash\source\repos\Publisher.App\Publisher.App\obj\Debug\net8.0\Publisher.App.AssemblyInfo.cs
+C:\Users\Amit Prakash\source\repos\Publisher.App\Publisher.App\obj\Debug\net8.0\Publisher.App.csproj.CoreCompileInputs.cache
+C:\Users\Amit Prakash\source\repos\Publisher.App\Publisher.App\obj\Debug\net8.0\Publishe.AC728CC3.Up2Date
+C:\Users\Amit Prakash\source\repos\Publisher.App\Publisher.App\obj\Debug\net8.0\Publisher.App.dll
+C:\Users\Amit Prakash\source\repos\Publisher.App\Publisher.App\obj\Debug\net8.0\refint\Publisher.App.dll
+C:\Users\Amit Prakash\source\repos\Publisher.App\Publisher.App\obj\Debug\net8.0\Publisher.App.pdb
+C:\Users\Amit Prakash\source\repos\Publisher.App\Publisher.App\obj\Debug\net8.0\Publisher.App.genruntimeconfig.cache
+C:\Users\Amit Prakash\source\repos\Publisher.App\Publisher.App\obj\Debug\net8.0\ref\Publisher.App.dll

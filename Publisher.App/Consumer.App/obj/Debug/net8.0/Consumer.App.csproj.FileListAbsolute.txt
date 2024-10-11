@@ -1,0 +1,17 @@
+C:\Users\Amit Prakash\source\repos\Publisher.App\Consumer.App\bin\Debug\net8.0\Consumer.App.exe
+C:\Users\Amit Prakash\source\repos\Publisher.App\Consumer.App\bin\Debug\net8.0\Consumer.App.deps.json
+C:\Users\Amit Prakash\source\repos\Publisher.App\Consumer.App\bin\Debug\net8.0\Consumer.App.runtimeconfig.json
+C:\Users\Amit Prakash\source\repos\Publisher.App\Consumer.App\bin\Debug\net8.0\Consumer.App.dll
+C:\Users\Amit Prakash\source\repos\Publisher.App\Consumer.App\bin\Debug\net8.0\Consumer.App.pdb
+C:\Users\Amit Prakash\source\repos\Publisher.App\Consumer.App\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\Amit Prakash\source\repos\Publisher.App\Consumer.App\obj\Debug\net8.0\Consumer.App.csproj.AssemblyReference.cache
+C:\Users\Amit Prakash\source\repos\Publisher.App\Consumer.App\obj\Debug\net8.0\Consumer.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amit Prakash\source\repos\Publisher.App\Consumer.App\obj\Debug\net8.0\Consumer.App.AssemblyInfoInputs.cache
+C:\Users\Amit Prakash\source\repos\Publisher.App\Consumer.App\obj\Debug\net8.0\Consumer.App.AssemblyInfo.cs
+C:\Users\Amit Prakash\source\repos\Publisher.App\Consumer.App\obj\Debug\net8.0\Consumer.App.csproj.CoreCompileInputs.cache
+C:\Users\Amit Prakash\source\repos\Publisher.App\Consumer.App\obj\Debug\net8.0\Consumer.E73E4D45.Up2Date
+C:\Users\Amit Prakash\source\repos\Publisher.App\Consumer.App\obj\Debug\net8.0\Consumer.App.dll
+C:\Users\Amit Prakash\source\repos\Publisher.App\Consumer.App\obj\Debug\net8.0\refint\Consumer.App.dll
+C:\Users\Amit Prakash\source\repos\Publisher.App\Consumer.App\obj\Debug\net8.0\Consumer.App.pdb
+C:\Users\Amit Prakash\source\repos\Publisher.App\Consumer.App\obj\Debug\net8.0\Consumer.App.genruntimeconfig.cache
+C:\Users\Amit Prakash\source\repos\Publisher.App\Consumer.App\obj\Debug\net8.0\ref\Consumer.App.dll
